@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![mach0312's GitHub stats](https://github-readme-stats.vercel.app/api?username=mach0312&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mach0312&layout=compact)
 
 <!--
 **mach0312/mach0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
