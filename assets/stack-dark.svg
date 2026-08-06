@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="DSD omni-AMR software stack">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#6e7681"/></marker></defs>
+<rect width="1000" height="330" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="38" fill="#8b949e" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="12" font-weight="600" text-anchor="start" letter-spacing="2">THE DSD OMNI-AMR STACK</text>
+<line x1="28" y1="50" x2="972" y2="50" stroke="#30363d"/>
+<rect x="28" y="78" width="216" height="86" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.4"/>
+<rect x="28" y="78" width="4" height="86" rx="2" fill="#58a6ff"/>
+<text x="44" y="108" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="13" font-weight="700" text-anchor="start">dsd_bot_description</text>
+<text x="44" y="130" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start">URDF / xacro</text>
+<rect x="44" y="140" width="47.0" height="18" rx="9" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+<text x="67.5" y="153" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" font-weight="400" text-anchor="middle">CMake</text>
+<rect x="268" y="78" width="304" height="86" rx="8" fill="#161b22" stroke="#3fb950" stroke-width="1.4"/>
+<rect x="268" y="78" width="4" height="86" rx="2" fill="#3fb950"/>
+<text x="284" y="108" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11.5" font-weight="700" text-anchor="start">double_steering_drive_controller</text>
+<text x="284" y="130" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start">ros2_control plugin</text>
+<rect x="284" y="140" width="33.8" height="18" rx="9" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+<text x="300.9" y="153" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" font-weight="400" text-anchor="middle">C++</text>
+<rect x="596" y="78" width="192" height="86" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.4"/>
+<rect x="596" y="78" width="4" height="86" rx="2" fill="#58a6ff"/>
+<text x="612" y="108" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="13" font-weight="700" text-anchor="start">pgv_tracing_mode</text>
+<text x="612" y="130" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start">PGV line align / trace</text>
+<rect x="612" y="140" width="53.599999999999994" height="18" rx="9" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+<text x="638.8" y="153" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" font-weight="400" text-anchor="middle">Python</text>
+<rect x="800" y="78" width="172" height="86" rx="8" fill="#161b22" stroke="#d29922" stroke-width="1.4"/>
+<rect x="800" y="78" width="4" height="86" rx="2" fill="#d29922"/>
+<text x="816" y="108" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="13" font-weight="700" text-anchor="start">omni-docking-bench</text>
+<text x="816" y="130" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start">ICROS 2026 benchmark</text>
+<rect x="816" y="140" width="53.599999999999994" height="18" rx="9" fill="#1c2128" stroke="#30363d" stroke-width="1"/>
+<text x="842.8" y="153" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="10" font-weight="400" text-anchor="middle">Python</text>
+<line x1="244" y1="121" x2="265" y2="121" stroke="#6e7681" stroke-width="1.6" marker-end="url(#ar)"/>
+<line x1="572" y1="121" x2="593" y2="121" stroke="#6e7681" stroke-width="1.6" marker-end="url(#ar)"/>
+<line x1="788" y1="121" x2="797" y2="121" stroke="#6e7681" stroke-width="1.6" marker-end="url(#ar)"/>
+<rect x="28" y="208" width="304" height="86" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="44" y="236" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="13" font-weight="700" text-anchor="start">dsd_control_demo</text>
+<text x="44" y="258" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start">ros2_control hardware interface + bringup</text>
+<text x="44" y="280" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11" font-weight="400" text-anchor="start">C++  ·  Gazebo &amp; real hardware</text>
+<rect x="360" y="208" width="304" height="86" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="376" y="236" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="13" font-weight="700" text-anchor="start">payload_mass_estimator</text>
+<text x="376" y="258" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start">online payload mass — bounded RLS</text>
+<text x="376" y="280" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11" font-weight="400" text-anchor="start">C++  ·  gated on straight-line excitation</text>
+<rect x="692" y="208" width="280" height="86" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+<text x="708" y="236" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="13" font-weight="700" text-anchor="start">Sampling-Based-Planning</text>
+<text x="708" y="258" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="12" font-weight="400" text-anchor="start">PRM · RRT · RRT* · Informed RRT*</text>
+<text x="708" y="280" fill="#6e7681" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace" font-size="11" font-weight="400" text-anchor="start">Python  ·  lecture series</text>
+<line x1="180" y1="164" x2="180" y2="208" stroke="#6e7681" stroke-width="1.6" stroke-dasharray="4 4" marker-end="url(#ar)"/>
+</svg>
